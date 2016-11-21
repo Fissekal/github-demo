@@ -1,4 +1,3 @@
 Test Git Quick Start Demo
-
 added new line
 added another line
